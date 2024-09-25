@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="fitness.vo.Fitness"/>
+    <fullyQualifiedTypeName name="fitness.service.FitnessService"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="Exam.Chicken"/>
+    <fullyQualifiedTypeName name="Exam.FriedChicken"/>
+    <fullyQualifiedTypeName name="Exam.SeasonedChicken"/>
+    <fullyQualifiedTypeName name="exam_30.Point"/>
+    <fullyQualifiedTypeName name="exam_30.Circle"/>
+    <fullyQualifiedTypeName name="exam_30.Rectangle"/>
+    <fullyQualifiedTypeName name="vo.PhoneBook"/>
+    <fullyQualifiedTypeName name="vo.Product"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.time.Clock"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Fruit1.Fruit"/>
+    <fullyQualifiedTypeName name="Fruit1"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="VO.Man"/>
+    <fullyQualifiedTypeName name="VO.Reader"/>
+    <fullyQualifiedTypeName name="VO.Student"/>
+    <fullyQualifiedTypeName name="VO.Worker"/>
+</qualifiedTypeNameHistroy>

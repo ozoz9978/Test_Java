@@ -1,0 +1,125 @@
+2024-07-01 12:31:49,647 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-07-02 17:50:48,261 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-04 12:02:12,760 [ModalContext] WARN  org.eclipse.jgit.util.FS_Win32 - Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\user', return code '127', error message 'mkdir: cannot change permissions of '/dev/shm': Permission denied
+mkdir: cannot change permissions of '/dev/mqueue': Permission denied
+/etc/post-install/05-home-dir.post: line 232: /usr/bin/find: No such file or directory
+/etc/post-install/08-xml-catalog.post: line 6: /usr/bin/xmlcatalog: No such file or directory
+/etc/profile: line 165: clear: command not found
+/etc/profile: line 166: echo: write error: No such file or directory
+/etc/profile: line 167: echo: write error: No such file or directory
+/etc/profile: line 168: echo: write error: No such file or directory
+/etc/profile: line 169: echo: write error: No such file or directory
+/etc/profile: line 170: echo: write error: No such file or directory
+/etc/profile: line 171: echo: write error: No such file or directory
+/etc/profile: line 172: echo: write error: No such file or directory
+/etc/profile: line 173: echo: write error: No such file or directory
+/etc/profile: line 174: echo: write error: No such file or directory
+/etc/profile: line 175: echo: write error: No such file or directory
+/etc/profile: line 176: echo: write error: No such file or directory
+/etc/profile: line 177: echo: write error: No such file or directory
+/etc/profile: line 178: echo: write error: No such file or directory
+/etc/profile: line 179: echo: write error: No such file or directory
+bash: which: command not found
+'
+2024-07-04 12:45:16,935 [main] WARN  org.eclipse.jgit.util.FS_Win32 - Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\user', return code '127', error message '/etc/post-install/08-xml-catalog.post: line 6: /usr/bin/xmlcatalog: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/etc/profile: line 165: clear: command not found
+/etc/profile: line 166: echo: write error: No such file or directory
+/etc/profile: line 167: echo: write error: No such file or directory
+/etc/profile: line 168: echo: write error: No such file or directory
+/etc/profile: line 169: echo: write error: No such file or directory
+/etc/profile: line 170: echo: write error: No such file or directory
+/etc/profile: line 171: echo: write error: No such file or directory
+/etc/profile: line 172: echo: write error: No such file or directory
+/etc/profile: line 173: echo: write error: No such file or directory
+/etc/profile: line 174: echo: write error: No such file or directory
+/etc/profile: line 175: echo: write error: No such file or directory
+/etc/profile: line 176: echo: write error: No such file or directory
+/etc/profile: line 177: echo: write error: No such file or directory
+/etc/profile: line 178: echo: write error: No such file or directory
+/etc/profile: line 179: echo: write error: No such file or directory
+bash: which: command not found
+'
+2024-07-04 12:45:18,824 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-05 09:57:05,264 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-05 09:57:06,972 [Worker-2: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\user', return code '127', error message '/etc/post-install/08-xml-catalog.post: line 6: /usr/bin/xmlcatalog: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/etc/profile: line 165: clear: command not found
+/etc/profile: line 166: echo: write error: No such file or directory
+/etc/profile: line 167: echo: write error: No such file or directory
+/etc/profile: line 168: echo: write error: No such file or directory
+/etc/profile: line 169: echo: write error: No such file or directory
+/etc/profile: line 170: echo: write error: No such file or directory
+/etc/profile: line 171: echo: write error: No such file or directory
+/etc/profile: line 172: echo: write error: No such file or directory
+/etc/profile: line 173: echo: write error: No such file or directory
+/etc/profile: line 174: echo: write error: No such file or directory
+/etc/profile: line 175: echo: write error: No such file or directory
+/etc/profile: line 176: echo: write error: No such file or directory
+/etc/profile: line 177: echo: write error: No such file or directory
+/etc/profile: line 178: echo: write error: No such file or directory
+/etc/profile: line 179: echo: write error: No such file or directory
+bash: which: command not found
+'
+2024-07-05 12:14:15,957 [main] WARN  org.eclipse.jgit.util.FS_Win32 - Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\user', return code '127', error message '/etc/post-install/08-xml-catalog.post: line 6: /usr/bin/xmlcatalog: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/etc/profile: line 165: clear: command not found
+/etc/profile: line 166: echo: write error: No such file or directory
+/etc/profile: line 167: echo: write error: No such file or directory
+/etc/profile: line 168: echo: write error: No such file or directory
+/etc/profile: line 169: echo: write error: No such file or directory
+/etc/profile: line 170: echo: write error: No such file or directory
+/etc/profile: line 171: echo: write error: No such file or directory
+/etc/profile: line 172: echo: write error: No such file or directory
+/etc/profile: line 173: echo: write error: No such file or directory
+/etc/profile: line 174: echo: write error: No such file or directory
+/etc/profile: line 175: echo: write error: No such file or directory
+/etc/profile: line 176: echo: write error: No such file or directory
+/etc/profile: line 177: echo: write error: No such file or directory
+/etc/profile: line 178: echo: write error: No such file or directory
+/etc/profile: line 179: echo: write error: No such file or directory
+bash: which: command not found
+'
+2024-07-05 12:14:17,738 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-08 10:02:39,963 [main] WARN  org.eclipse.jgit.util.FS_Win32 - Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\user', return code '127', error message '/etc/post-install/08-xml-catalog.post: line 6: /usr/bin/xmlcatalog: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/usr/bin/regen-info.sh: line 8: /usr/bin/install-info: No such file or directory
+/etc/profile: line 165: clear: command not found
+/etc/profile: line 166: echo: write error: No such file or directory
+/etc/profile: line 167: echo: write error: No such file or directory
+/etc/profile: line 168: echo: write error: No such file or directory
+/etc/profile: line 169: echo: write error: No such file or directory
+/etc/profile: line 170: echo: write error: No such file or directory
+/etc/profile: line 171: echo: write error: No such file or directory
+/etc/profile: line 172: echo: write error: No such file or directory
+/etc/profile: line 173: echo: write error: No such file or directory
+/etc/profile: line 174: echo: write error: No such file or directory
+/etc/profile: line 175: echo: write error: No such file or directory
+/etc/profile: line 176: echo: write error: No such file or directory
+/etc/profile: line 177: echo: write error: No such file or directory
+/etc/profile: line 178: echo: write error: No such file or directory
+/etc/profile: line 179: echo: write error: No such file or directory
+bash: which: command not found
+'
+2024-07-08 10:02:41,513 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-09 09:59:00,103 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-10 10:02:07,576 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-10 12:03:01,589 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-11 10:25:12,650 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-11 10:25:17,097 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-07-11 18:31:00,995 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-12 10:34:59,851 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-13 12:16:09,062 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-13 15:33:15,389 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-13 15:38:57,113 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-13 21:50:06,581 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-15 10:53:53,978 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-17 10:10:43,547 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-18 12:05:59,068 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-19 01:03:44,796 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-19 13:58:56,972 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-23 15:47:38,230 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-21 11:36:52,407 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
